@@ -43,3 +43,5 @@ Open [http://localhost:8081](http://localhost:8081) to view it in the browser.
 
 The page will reload if you make edits.
 # react-app
+
+Note: In order to run the app run backend and frontend app at the same time, start backend app on port 3000 and frontend app on 8081, https://github.com/shimroz1992/test_techforce(go through readme in order to start backend app),
